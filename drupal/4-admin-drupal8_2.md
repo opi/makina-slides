@@ -11,7 +11,7 @@
 
 --------------------------------------------------------------------------------
 
-# Tâches d'administration
+## Tâches d'administration
 
   * _Configurer > Personnes_ : Paramétrage/blocage de comptes (module _Ban_)
   * _Configurer > Système_ : Informations et Cron
@@ -25,7 +25,7 @@
 
 --------------------------------------------------------------------------------
 
-# Mises à jour
+## Mises à jour
 
   * Rapport > Mises à jour disponibles (module _Update manager_)
 
@@ -35,7 +35,7 @@
 
 --------------------------------------------------------------------------------
 
-# Mises à jour des modules
+## Mises à jour des modules
 
   * Télécharger la nouvelle version
   * Supprimer l'ancienne version
@@ -48,7 +48,7 @@ apparait.
 
 --------------------------------------------------------------------------------
 
-# Mises à jour du cœur
+## Mises à jour du cœur
 
   * Instructions sur <https://www.drupal.org/node/2700999>
   * Mettre le site en mode "maintenance"
@@ -60,7 +60,7 @@ apparait.
 
 --------------------------------------------------------------------------------
 
-# DRUpal SHell
+## DRUpal SHell
 
   * [https://github.com/drush-ops/drush][2]
 
@@ -77,7 +77,7 @@ apparait.
 
 --------------------------------------------------------------------------------
 
-# Sauvegardes
+## Sauvegardes
 
   * Module _Backup & Migrate_
     * Sauvegarde de la base de données
@@ -94,7 +94,7 @@ apparait.
 
 --------------------------------------------------------------------------------
 
-# Installation multi-sites
+## Installation multi-sites
 
   * Traditionnel - Partage des modules
     * Décompresser Drupal
@@ -111,7 +111,7 @@ apparait.
 
 --------------------------------------------------------------------------------
 
-# Performance
+## Performance
 
   * Cache activé par défaut
     * Fonctionne très bien pour les anonymes
@@ -135,7 +135,7 @@ Multi-sites, performance)
 
 --------------------------------------------------------------------------------
 
-# Ré-écriture des urls
+## Ré-écriture des urls
 
   * Module path (core) et __Pathauto__
   * Recherche et métadonnées > Alias d'urls
@@ -147,7 +147,7 @@ Multi-sites, performance)
 
 --------------------------------------------------------------------------------
 
-# Module Token
+## Module Token
 
   * Sorte de variables affichant certaines données en fonction d'un contexte
   * Global
@@ -212,7 +212,7 @@ Multi-sites, performance)
 
 --------------------------------------------------------------------------------
 
-# Le multilinguisme
+## Le multilinguisme
 
   * 4 modules présents dans le coeur
     * Language (gestion des langues du site)
@@ -224,7 +224,7 @@ Multi-sites, performance)
     
 --------------------------------------------------------------------------------
 
-# La langue
+## La langue
 
   * Ajout de langage
   * Gère également si la langue s'écrit de gauche à droite
@@ -233,7 +233,7 @@ Multi-sites, performance)
     
 --------------------------------------------------------------------------------
 
-# La langue
+## La langue
 
   * Activé automatiquement si on choisit l'installation dans une autre langue
   * Permet de combiner différentes méthodes de détection de langue
@@ -242,7 +242,7 @@ Multi-sites, performance)
     
 --------------------------------------------------------------------------------
 
-# Traduction de l'interface
+## Traduction de l'interface
 
   * Interface de traduction du back-office
 
@@ -252,7 +252,7 @@ Multi-sites, performance)
 
 --------------------------------------------------------------------------------
 
-# Traduction du contenu
+## Traduction du contenu
 
   * Module "Content Translation"
   * "Contenu" = 
@@ -266,7 +266,7 @@ Multi-sites, performance)
 
 --------------------------------------------------------------------------------
 
-# Traduction du contenu
+## Traduction du contenu
 
   * Activation du multilinguisme sur le type de contenu
     * (ou utilisateur, vocabulaire, ...)
@@ -276,7 +276,7 @@ Multi-sites, performance)
 
 --------------------------------------------------------------------------------
 
-# Traduction du contenu
+## Traduction du contenu
 
   * Onglet "Traduire" pour chaque contenu
     * Tableau de synthèse du statut de traduction pour toutes les langues
@@ -286,7 +286,7 @@ Multi-sites, performance)
 
 --------------------------------------------------------------------------------
 
-# Traduction du contenu
+## Traduction du contenu
 
   * Attention, il faut paramétrer les champs qui peuvent se traduire !
   * Administration > Configuration > Langue et région > Langue du contenu et traduction
@@ -295,7 +295,7 @@ Multi-sites, performance)
 
 --------------------------------------------------------------------------------
 
-# Traduire les blocs
+## Traduire les blocs
 
   * Pour chaque bloc dans l'onglet ''Configurer le bloc''
     * Restriction du bloc à certains langages
@@ -304,7 +304,7 @@ Multi-sites, performance)
 
 --------------------------------------------------------------------------------
 
-# Traduire la configuration
+## Traduire la configuration
 
 ![][8]
 
@@ -316,7 +316,7 @@ Multi-sites, performance)
 
 --------------------------------------------------------------------------------
 
-# Traduire les menus
+## Traduire les menus
 
   * 2 stratégies :
     * Créer un menu par langue
@@ -337,7 +337,7 @@ performance, architecture)
 
 --------------------------------------------------------------------------------
 
-# Gestion des médias 
+## Gestion des médias 
 
   * Media Initiative
     * <http://www.drupalmedia.org>
@@ -349,7 +349,7 @@ performance, architecture)
 
 --------------------------------------------------------------------------------
 
-# Newsletter
+## Newsletter
 
   * Module Simplenews
     * Gestion des abonnements
@@ -363,7 +363,7 @@ performance, architecture)
 
 --------------------------------------------------------------------------------
 
-# Formulaires
+## Formulaires
 
   * Référence Drupal : module Webform
     * Mais pas prêt du tout pour Drupal 8
@@ -388,7 +388,7 @@ performance, architecture)
 
 --------------------------------------------------------------------------------
 
-# La recherche
+## La recherche
 
   * Search API
     * Lien Apache Solr (module __Search API Solr Search__)
